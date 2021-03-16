@@ -12,5 +12,4 @@ jobs:
           args: >-  # allows you to break string into multiple lines
             --standalone
             --output=sample.md
-            sample.tex
-            
+            ./sample.tex
